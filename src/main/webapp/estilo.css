@@ -1,0 +1,60 @@
+@charset "UTF-8";
+header{
+	background-color: palegreen;
+	
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	color:white;
+	display: inline;
+	margin-left: 12rem;
+}
+.imagen1{
+	float:left;
+	margin-inline-start: 2rem;
+}
+.imagen2{
+	margin-inline-start:40rem;
+}
+nav{
+	background-color: black;
+	padding:2rem;
+
+}
+.bot{
+	color: white;
+	
+	margin-inline-start: 24rem;
+	
+}
+.bot1{
+	color: white;
+	margin-inline-start: 20rem;
+}
+main{
+	background-color: navajowhite;
+	margin-top: 0;
+	}
+h2{
+	text-align: center;
+	color:aliceblue;
+	text-decoration: none;
+}
+.venta{
+	background-color: grey;
+}
+h3{
+	text-align: center;
+	color:aliceblue;
+	text-decoration: none;
+	font-size:4rem;
+}
+a{
+	border: solid red;
+	border-style: dashed;
+	width: 12rem;
+}
+div{
+	background-color: lightgrey;
+}

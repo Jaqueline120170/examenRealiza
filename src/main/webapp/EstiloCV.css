@@ -1,0 +1,75 @@
+@charset "UTF-8";
+header{
+	background-color: palegreen;
+	
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	color:white;
+}
+.imagen1{
+	float:left;
+	margin-inline-start: 2rem;
+}
+.imagen2{
+	margin-inline-start:40rem;
+}
+nav{
+	background-color: black;
+	padding:2rem;
+
+}
+.bot{
+	color: white;
+	
+	margin-inline-start: 24rem;
+	
+}
+.bot2{
+	color: white;
+	margin-inline-start: 20rem;
+}
+a{
+	border: solid red;
+	border-style: dashed;}
+h2{
+	text-align: center;
+	font-size: 2rem;
+	
+}
+h3{
+	text-align:center;
+	color:deepskyblue;
+	font-size: 2rem;
+}
+main{
+	background-color: navajowhite;
+}
+.imagen3{
+	margin-left: 12rem;
+	border-radius: red;
+	
+}
+table{
+	margin-inline-start: 500px;
+	border:solid black;
+	border-collapse: collapse;
+	width: 24rem;
+
+}
+table:hover{
+	color:blue;
+	background-color: yellow;
+}
+#edad{
+	
+	
+}
+#telefono{
+	
+}
+thead{
+	border-collapse: collapse;
+}
+
